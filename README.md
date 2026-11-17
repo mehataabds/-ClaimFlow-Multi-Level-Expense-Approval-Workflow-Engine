@@ -7,6 +7,8 @@ vinaykumar Talawar (1AT25EC427), Mehataab D S (1AT24EC083), C Track
 
 bash
 gcc ClaimFlow.c -o ClaimFlow.exe
+
+
 ./ClaimFlow.exe
 
 
